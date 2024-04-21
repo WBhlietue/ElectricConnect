@@ -1,0 +1,12 @@
+<svg width="864" height="700" viewBox="0 0 864 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="560" y="5" width="127" height="286" rx="25" fill="#FFB94F" stroke="black" stroke-width="10"/>
+<path d="M92 399.538C92 378.912 102.097 359.592 119.032 347.815L399.367 152.87C420.835 137.94 449.294 137.825 470.883 152.579L740.547 336.877C757.726 348.618 768 368.083 768 388.89V632C768 666.794 739.794 695 705 695H155C120.206 695 92 666.794 92 632V399.538Z" fill="#FFE769" stroke="black" stroke-width="10"/>
+<rect x="532" y="5" width="183" height="77" rx="25" fill="#FFB94F" stroke="black" stroke-width="10"/>
+<path d="M494 507C494 482.147 514.147 462 539 462H573C597.853 462 618 482.147 618 507V695H494V507Z" fill="#B69B3C" stroke="black" stroke-width="10"/>
+<circle cx="591" cy="586" r="10" fill="#FF6262" stroke="black" stroke-width="10"/>
+<path d="M5.65332 395.019C5.65332 383.459 11.263 372.618 20.6997 365.94L384.509 108.508C414.023 87.6242 453.517 87.6956 482.955 108.686L843.696 365.911C853.082 372.603 858.653 383.419 858.653 394.946C858.653 423.958 825.854 440.829 802.252 423.955L487.405 198.855C454.359 175.229 409.948 175.229 376.902 198.855L61.9943 423.998C38.4182 440.854 5.65332 424.001 5.65332 395.019Z" fill="#FF5151" stroke="black" stroke-width="10"/>
+<rect x="227" y="363" width="154" height="154" rx="40" fill="#8FF8FF" stroke="black" stroke-width="10"/>
+<line x1="305" y1="366" x2="305" y2="516" stroke="black" stroke-width="10"/>
+<line x1="229" y1="441" x2="379" y2="441" stroke="black" stroke-width="10"/>
+<rect x="211" y="512" width="186" height="54" rx="18" fill="#FF5151" stroke="black" stroke-width="10"/>
+</svg>
